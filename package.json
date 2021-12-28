@@ -1,0 +1,19 @@
+{
+  "name": "ptal_css_int",
+  "version": "1.0.0",
+  "description": "PTAL's CSS Interpreter",
+  "main": "/dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immjs/ptal_css_int.git"
+  },
+  "author": "InforMatheMusic, BorrisX",
+  "license": "Hippocratic-2.1",
+  "bugs": {
+    "url": "https://github.com/immjs/ptal_css_int/issues"
+  },
+  "homepage": "https://github.com/immjs/ptal_css_int#readme"
+}
